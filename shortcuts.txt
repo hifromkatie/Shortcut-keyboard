@@ -1,0 +1,84 @@
+Desktop, New Window, CTRL N
+Desktop, New Tab, CTRL T
+Desktop, New Folder, CTRL SHIFT N
+Desktop, Cut, CTRL X
+Desktop, Copy, CTRL C
+Desktop, Paste, CTRL V
+Desktop, Select All, CTRL A
+Desktop, App Draw, SUPER A
+Desktop, App view, ALT F1
+Desktop, Close Window, ALT F4
+Desktop, Switch Window, ALT TAB
+Desktop, Open Terminal, CTRL ALT T
+Libre Office, New, CTRL N
+Libre Office, Save, CTRL S
+Libre Office, Open, CTRL O
+Libre Office, Print, CTRL P
+Libre Office, Save As, CTRL SHIFT S
+Libre Office, Find, CTRL F
+Libre Office, Undo, CTRL Z
+Libre Office, Redo, CTRL Y
+Libre Office, Select All, SHIFT CTRL SPACE
+Libre Office, Cut, CTRL X
+Libre Office, Copy, CTRL C
+Libre Office, Paste, CTRL V
+Zoom, Meet Cont, ALT
+Zoom, Start /Stop Vid, ALT V
+Zoom, Mute, ALT A
+Zoom, Mute everyone else, ALT M
+Zoom, Start screen share, ALT S
+Zoom, Switch Cam, ALT N
+Zoom, Show Partic ipants, ALT U
+Zoom, Raise /lower hand, ALT Y
+Zoom, Start /stop Record, ALT R
+Zoom, Pause Record, ALT P
+Zoom, Chat Screen shot, ALT SHIFT T
+Zoom, Close Chat, CTRL W
+KiCAD Sch, Zoom In, F1
+KiCAD Sch, Zoom Out, F2
+KiCAD Sch, Zoom Center, F4
+KiCAD Sch, Fit on Screen, HOME
+KiCAD Sch, Add Compo nent, A
+KiCAD Sch, Add Power, P
+KiCAD Sch, Rotate Item, R
+KiCAD Sch, Move Item, M
+KiCAD Sch, Begin Wire, W
+KiCAD Sch, Add Label, L
+KiCAD Sch, Add Junction, J
+KiCAD Sch, Edit Value, V
+KiCAD PCB, Add New Track, X
+KiCAD PCB, Add Via, V
+KiCAD PCB, Place Item, P
+KiCAD PCB, Copy Item, C
+KiCAD PCB, End Track, END
+KiCAD PCB, Move Item, M
+KiCAD PCB, Flip Item, F
+KiCAD PCB, Rotate Item, R
+KiCAD PCB, Find Item, F
+KiCAD PCB, Edit Item, END
+KiCAD PCB, Switch Next Layer, +
+KiCAD PCB, Switch Prev Layer, -
+shotcut, Cut, CTRL X
+shotcut, Copy, CTRL C
+shotcut, Paste, CTRL V
+shotcut, Append, A
+shotcut, Lift, Z
+shotcut, Insert, V
+shotcut, Overwrite, B
+shotcut, Replace, R
+shotcut, Split, S
+shotcut, Zoom In, +
+shotcut, Zoom Out, -
+shotcut, Zoom Fit, 0
+testing, A, A
+testing, B, B
+testing, C, C
+testing, D, D
+testing, E, E
+testing, F, F
+testing, G, G
+testing, H, H
+testing, I, I
+testing, J, J
+testing, K, K
+testing, L, L
