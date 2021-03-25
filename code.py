@@ -11,7 +11,7 @@ from adafruit_hid.keyboard_layout_us import KeyboardLayoutUS
 from adafruit_hid.keycode import Keycode
 from keys_dict.keys import key_lookup
 
-keypress_pins = [board.GP0, board.GP1, board.GP2, board.GP3, board.GP4, board.GP5, board.GP6, board.GP7, board.GP10, board.GP11, board.GP18, board.GP19]
+keypress_pins = [board.GP0, board.GP1, board.GP2, board.GP3, board.GP4, board.GP5, board.GP6, board.GP7, board.GP10, board.GP11, board.GP12, board.GP13]
 key_pin_array = []
 
 application_id_array =[]
@@ -31,7 +31,7 @@ for pin in keypress_pins:
 led = digitalio.DigitalInOut(board.LED)
 led.direction = digitalio.Direction.OUTPUT
 
-switch_button = digitalio.DigitalInOut(board.GP13)
+switch_button = digitalio.DigitalInOut(board.GP16)
 switch_button.direction = digitalio.Direction.INPUT
 switch_button.pull = digitalio.Pull.DOWN
 
